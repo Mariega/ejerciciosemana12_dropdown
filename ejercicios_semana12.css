@@ -1,0 +1,25 @@
+.dropdown {
+  display: inline-block;
+  
+}
+
+.boton {
+  padding: 1rem 3rem 1rem 3rem;
+  background-color: #008cba;
+  border: none;
+  border-bottom: #008cba;
+  color: #ffffff;
+  text-align: center;
+  font-family: sans-serif;
+ 
+}
+
+a {
+  display: block;
+  background: #008cba;
+  padding: 0.5rem,0,0.5rem,0;
+  margin: 0.1rem;
+  text-decoration: none;
+  color: #ffffff;
+  font-family: sans-serif;
+}
